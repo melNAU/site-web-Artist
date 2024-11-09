@@ -1,0 +1,12 @@
+/* Styling du header */
+header {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
